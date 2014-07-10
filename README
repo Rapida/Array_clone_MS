@@ -1,0 +1,14 @@
+README.
+Create instance, reference or simple clones between two selected objects.
+Its work in 3ds max 2011 and higher.
+First release: 
+1. Have simple UI.
+		HOW ITS WORKING:
+		1. Select Your models
+		2. Run the script.
+		3. Select how to clone : copy, instance or reference.
+		4. Select which object to clone.
+		5. specialize how many clones to create.
+		6. On "Clone" button script create the count of clones
+		7. On "Close" the rollout closed
+		8. On "Delete" all copies will deleted
