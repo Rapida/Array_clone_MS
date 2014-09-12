@@ -1,3 +1,10 @@
+macroScript Array_Clone
+category:"Rapida Scripts"
+buttonText: "Array Clone"
+toolTip:"Clone One of Selected objects\n between two objects"
+
+
+(
 	(
 		(
 			local obj_array = #()
@@ -137,4 +144,4 @@
 		CreateDialog array_clone
 		)
 	)
-
+)
